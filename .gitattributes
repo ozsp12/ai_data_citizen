@@ -1,0 +1,7 @@
+*.ipynb linguist-language=Jupyter\ Notebook
+*.csv text eol=lf
+*.parquet binary
+*.pbix binary
+*.pdf binary
+*.mp4 binary
+*.gif binary

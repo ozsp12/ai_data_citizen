@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Se utilizar estes materiais, cite o repositório e a versão consultada."
+title: "AI Data Citizen: materiais didáticos de análise e visualização de dados"
+type: software
+authors:
+  - family-names: Santos-Pereira
+    given-names: Osvaldo L.
+    orcid: "https://orcid.org/0000-0003-2231-517X"
+repository-code: "https://github.com/ozsp12/ai_data_citizen"
+url: "https://github.com/ozsp12/ai_data_citizen"
+keywords:
+  - análise de dados
+  - Python
+  - SQL
+  - DAX
+  - visualização de dados
+  - ensino
