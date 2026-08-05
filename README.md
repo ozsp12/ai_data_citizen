@@ -34,14 +34,10 @@ Esta unidade discute como representar observações repetidas ao longo do tempo 
 
 **Materiais:** [`grafico_animado_serie_temporal.ipynb`](dados_em_painel/grafico_animado_serie_temporal.ipynb) · [`tipos_graficos_dados_em_painel.pdf`](dados_em_painel/tipos_graficos_dados_em_painel.pdf)
 
-## Materiais complementares
-
-A pasta [`analise_dados_com_duckdb/`](analise_dados_com_duckdb/README.md) reúne exercícios sobre eventos, assinaturas e consumo de vídeos. A pasta [`visualizacoes/`](visualizacoes/README.md) contém exemplos estáticos e animados produzidos com Matplotlib, Seaborn e Plotly.
-
-## Referências
+# Referências
 
 A bibliografia de Python, bancos de dados, DAX, visualização, análise longitudinal e inferência está reunida em [`REFERENCES.md`](REFERENCES.md). Os metadados para citação do repositório estão em [`CITATION.cff`](CITATION.cff).
 
-## Autor
+# Autor
 
 **Dr. Osvaldo L. Santos-Pereira** — [Página acadêmica](https://ozsp12.github.io/) · [Lattes](http://lattes.cnpq.br/6730251976463283) · [ORCID](https://orcid.org/0000-0003-2231-517X) · [Google Scholar](https://scholar.google.com/citations?user=HIZp0X8AAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Osvaldo-Santos-Pereira) · [GitHub](https://github.com/ozsp12) · [LinkedIn](https://www.linkedin.com/in/ozsp12) · [Substack](https://substack.com/@olsp1982) · [Medium](https://medium.com/@ozsp12) · [YouTube](https://www.youtube.com/@ozlsp12) · [X](https://x.com/ozsp12)
