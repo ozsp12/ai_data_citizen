@@ -10,7 +10,7 @@ Repositório didático de análise de dados com Python, SQL, DAX e ferramentas d
 | — | Exercícios de SQL com DuckDB | [`analise_dados_com_duckdb/`](analise_dados_com_duckdb/README.md) |
 | — | Exemplos adicionais de visualização | [`visualizacoes/`](visualizacoes/README.md) |
 
-## 1. Trilha rápida do analista de dados
+# Trilha rápida do analista de dados
 
 Esta unidade apresenta operações frequentes de análise tabular. O notebook utiliza dados sintéticos para demonstrar inspeção, seleção, filtros, agrupamentos e tratamento de ausências com `pandas`; consultas e operações básicas com SQL e DuckDB; e funções introdutórias de DAX aplicadas ao Power BI.
 
@@ -18,7 +18,7 @@ Esta unidade apresenta operações frequentes de análise tabular. O notebook ut
 
 **Materiais:** [`fast_track.ipynb`](fast_track/fast_track.ipynb) · [`df_fast_track.csv`](fast_track/df_fast_track.csv) · [`df_fast_track.parquet`](fast_track/df_fast_track.parquet) · [`fast_track.pbix`](fast_track/fast_track.pbix)
 
-## 2. Análise rápida de precificação e elasticidade
+# Análise rápida de precificação e elasticidade
 
 Esta unidade constrói uma esteira exploratória com dados sintéticos, agregação por faixas, gráficos de preço e captação e ajustes lineares ou quadráticos. A coluna denominada `Elasticidade` é um índice criado para a demonstração computacional; não constitui uma estimativa causal de elasticidade-preço e não deve, isoladamente, orientar decisões comerciais.
 
@@ -26,7 +26,7 @@ Esta unidade constrói uma esteira exploratória com dados sintéticos, agregaç
 
 **Material:** [`precificacao_elasticidade.ipynb`](quick_dirty_analytics/precificacao_elasticidade.ipynb)
 
-## 3. Visualização de dados longitudinais
+# Visualização de dados longitudinais
 
 Esta unidade discute como representar observações repetidas ao longo do tempo por linhas, mapas de calor e painéis. O material compara as finalidades dessas representações e inclui um notebook que gera séries semanais sintéticas e uma animação por ano.
 
